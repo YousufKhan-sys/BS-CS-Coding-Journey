@@ -1,0 +1,9 @@
+101 Single 1
+102 Single 0
+103 Single 0
+201 Double 0
+202 Double 0
+203 Double 1
+301 Luxury 1
+302 Luxury 0
+303 Luxury 1
